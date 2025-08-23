@@ -2,11 +2,17 @@
 
 **`Analista de Marketing | CRM & Growth |`**
 
-Sou Yuka Kavazoko, mãe da Olga, movida pela curiosidade e apaixonada por compreender pessoas, dados e histórias. Atuo há mais de 5 anos em **marketing digital**, com foco em **CRM, inbound e growth**, sempre buscando transformar estratégias em impacto real — especialmente quando se trata de projetos com propósito e do terceiro setor.
+Sou **Yuka Kavazoko**, mãe da **Olga**, movida pela **curiosidade** e apaixonada por compreender **pessoas, dados e histórias**.  
+Atuo há mais de **5 anos** em **marketing digital**, com foco em **CRM, inbound e growth**, sempre buscando transformar estratégias em **impacto real** — especialmente quando se trata de **projetos com propósito** e do **terceiro setor**.  
 
-No dia a dia, planejo e executo **jornadas de relacionamento personalizadas**, crio **automações inteligentes**, acompanho dados e proponho **melhorias contínuas** que equilibram resultados, experiência do cliente e o propósito de cada marca ou instituição.
+No dia a dia, planejo e executo **jornadas de relacionamento personalizadas**, crio **automações inteligentes**, acompanho **dados** e proponho **melhorias contínuas** que equilibram **resultados**, **experiência do cliente** e o **propósito** de cada marca ou instituição.  
 
-Tenho experiência prática com ferramentas de CRM como **RD Station, Pipedrive, HubSpot e outras plataformas**, unindo análise estratégica e criatividade para fortalecer conexões de forma sustentável. Além disso, possuo familiaridade com **Photoshop, Illustrator, Canva e outras ferramentas de design**, o que me permite contribuir também na parte **visual e criativa** das estratégias de marketing.
+Tenho experiência prática com ferramentas de **CRM** como **RD Station, Pipedrive, HubSpot e outras plataformas**, unindo **análise estratégica** e **criatividade** para fortalecer conexões de forma sustentável.  
+Além disso, possuo familiaridade com **Photoshop, Illustrator, Canva e outras ferramentas de design**, o que me permite contribuir também na parte **visual e criativa** das estratégias de marketing.  
+
+Atualmente, estou me aprofundando em **SQL** e **fundamentos de dados em cloud (AWS, MySQL, PostgreSQL)** para ampliar minha **capacidade analítica** e integrar ainda mais **tecnologia** e **inteligência** às **estratégias de marketing**.  
+
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yukakavazoko/" target="_blank">
@@ -17,17 +23,37 @@ Tenho experiência prática com ferramentas de CRM como **RD Station, Pipedrive,
 
 ### 🤖 Ferramentas
 
-<div style="display:flex; align-items:center; gap:16px; flex-wrap:nowrap; white-space:nowrap; line-height:0;">
+**CRM**
+<p>
+  <img src="https://raw.githubusercontent.com/Yukavazoko/assets-icons-/main/hubspot.svg" alt="HubSpot" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Yukavazoko/assets-icons-/refs/heads/main/pipedrive.svg" alt="Pipedrive" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Yukavazoko/assets-icons-/main/rdstation.svg" alt="RD Station" height="28" />
+</p>
 
-  <img src="assets/icons/hubspot.svg" alt="HubSpot" title="HubSpot" height="30"/>
-  <img src="assets/icons/pipedrive.svg" alt="Pipedrive" title="Pipedrive" height="30"/>
-  <img src="assets/icons/rdstation.svg" alt="RD Station" title="RD Station" height="30"/>
-  <img src="assets/icons/html5.svg" alt="HTML" title="HTML" height="30"/>
-  <img src="assets/icons/photoshop.svg" alt="Photoshop" title="Photoshop" height="30"/>
-  <img src="assets/icons/illustrator.svg" alt="Illustrator" title="Illustrator" height="30"/>
-  <img src="assets/icons/canva.svg" alt="Canva" title="Canva" height="30"/>
+**Design**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Yukavazoko/assets-icons-/main/photoshop.svg" alt="Photoshop" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Yukavazoko/assets-icons-/main/illustrator.svg" alt="Illustrator" height="28" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Yukavazoko/assets-icons-/refs/heads/main/canva.svg" alt="Canva" height="28" />
+</p>
 
-</div>
+**Dados & Cloud**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="34" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="34" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="34" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Yukavazoko/assets-icons-/main/excel.svg" alt="Excel" height="34" />
+</p>
+
 
 ## 📈 GitHub Stats
 
