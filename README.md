@@ -27,8 +27,6 @@ Atualmente, estou me aprofundando em **SQL** e **fundamentos de dados em cloud (
 <p>
   <img src="https://raw.githubusercontent.com/Yukavazoko/assets-icons-/main/hubspot.svg" alt="HubSpot" height="28" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Yukavazoko/assets-icons-/refs/heads/main/pipedrive.svg" alt="Pipedrive" height="28" />
-  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Yukavazoko/assets-icons-/main/rdstation.svg" alt="RD Station" height="28" />
 </p>
 
@@ -40,7 +38,7 @@ Atualmente, estou me aprofundando em **SQL** e **fundamentos de dados em cloud (
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Yukavazoko/assets-icons-/main/illustrator.svg" alt="Illustrator" height="28" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Yukavazoko/assets-icons-/refs/heads/main/canva.svg" alt="Canva" height="28" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" height="28" />
 </p>
 
 **Dados & Cloud**
