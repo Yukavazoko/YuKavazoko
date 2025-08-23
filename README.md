@@ -8,6 +8,7 @@ Atuo há mais de **5 anos** em **marketing digital**, com foco em **CRM, inbound
 No dia a dia, planejo e executo **jornadas de relacionamento personalizadas**, crio **automações inteligentes**, acompanho **dados** e proponho **melhorias contínuas** que equilibram **resultados**, **experiência do cliente** e o **propósito** de cada marca ou instituição.  
 
 Tenho experiência prática com ferramentas de **CRM** como **RD Station, Pipedrive, HubSpot e outras plataformas**, unindo **análise estratégica** e **criatividade** para fortalecer conexões de forma sustentável.  
+
 Além disso, possuo familiaridade com **Photoshop, Illustrator, Canva e outras ferramentas de design**, o que me permite contribuir também na parte **visual e criativa** das estratégias de marketing.  
 
 Atualmente, estou me aprofundando em **SQL** e **fundamentos de dados em cloud (AWS, MySQL, PostgreSQL)** para ampliar minha **capacidade analítica** e integrar ainda mais **tecnologia** e **inteligência** às **estratégias de marketing**.  
