@@ -78,7 +78,7 @@ Atualmente explorando SQL, Produto e Growth Marketing.
   </tr>
 </table>
 
-## 📌 Repositórios em destaque
+## 📌 Featured repositories
 
 <table>
   <tr>
