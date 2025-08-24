@@ -25,7 +25,7 @@ Atualmente explorando SQL, Produto e Growth Marketing.
   </a>
 </p>
 
-### 🤖 Ferramentas
+### 🤖 Softwares & Tools
 
 **CRM**
 <p>
