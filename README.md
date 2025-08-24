@@ -2,16 +2,19 @@
 
 **`Analista de Marketing | CRM & Growth |`**
 
-Sou **Yuka Kavazoko**, mãe da **Olga**, movida pela **curiosidade** e apaixonada por compreender **pessoas, dados e histórias**.  
-Atuo há mais de **5 anos** em **marketing digital**, com foco em **CRM, inbound e growth**, sempre buscando transformar estratégias em **impacto real** — especialmente quando se trata de **projetos com propósito** e do **terceiro setor**.  
+Hi, I'm Yuka 👋  
+Digital Marketer & CRM Specialist with 5+ years of experience in inbound, automation and data-driven strategies.  
+Currently exploring SQL, Product and Growth Marketing.  
 
-No dia a dia, planejo e executo **jornadas de relacionamento personalizadas**, crio **automações inteligentes**, acompanho **dados** e proponho **melhorias contínuas** que equilibram **resultados**, **experiência do cliente** e o **propósito** de cada marca ou instituição.  
+🌱 I'm also learning English — improving step by step every day!  
 
-Tenho experiência prática com ferramentas de **CRM** como **RD Station, Pipedrive, HubSpot e outras plataformas**, unindo **análise estratégica** e **criatividade** para fortalecer conexões de forma sustentável.  
+_______________________________________________________________________________________________________________________________
 
-Além disso, possuo familiaridade com **Photoshop, Illustrator, Canva e outras ferramentas de design**, o que me permite contribuir também na parte **visual e criativa** das estratégias de marketing.  
+Oi, eu sou a Yuka 👋  
+Profissional de Marketing Digital & CRM, com +5 anos de experiência em inbound, automação e estratégias orientadas a dados.  
+Atualmente explorando SQL, Produto e Growth Marketing.  
 
-Atualmente, estou me aprofundando em **SQL** e **fundamentos de dados em cloud (AWS, MySQL, PostgreSQL)** para ampliar minha **capacidade analítica** e integrar ainda mais **tecnologia** e **inteligência** às **estratégias de marketing**.  
+🌱 Também estou aprendendo inglês — evoluindo um pouco mais a cada dia!  
 
 
 
