@@ -45,6 +45,13 @@ Atualmente explorando **Produto** e **análises avançadas** (SQL/BI).
 
 ---
 
+ℹ️ **Nota técnica**:  
+
+Este repositório foi configurado com um arquivo `.gitattributes` para priorizar a contagem de **SQL** e reduzir o peso de arquivos de documentação (`.md`) nos gráficos de linguagens do GitHub.  
+Assim, os relatórios de *Top Languages* refletem melhor o foco real deste playbook em **CRM orientado a dados**.
+
+---
+
 ## 📈 GitHub Stats
 
 <table>
