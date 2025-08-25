@@ -37,11 +37,9 @@ Atualmente explorando **Produto** e **análises avançadas** (SQL/BI).
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-336791?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-SQL-4479A1?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 [![BigQuery](https://img.shields.io/badge/BigQuery-Analytics-1A73E8?style=for-the-badge&logo=googlecloud)](https://cloud.google.com/bigquery)
-[![Looker Studio](https://img.shields.io/badge/Looker%20Studio-BI-1A73E8?style=for-the-badge&logo=looker)](https://lookerstudio.google.com/)
 [![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel)](#)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp)](#)
 [![E-mail](https://img.shields.io/badge/Email-Channel-4285F4?style=for-the-badge&logo=gmail)](#)
-[![SMS](https://img.shields.io/badge/SMS-Channel-555?style=for-the-badge)](#)
 
 ---
 
@@ -108,3 +106,6 @@ Assim, os relatórios de *Top Languages* refletem melhor o foco real deste playb
     </td>
   </tr>
 </table>
+
+<!-- Linguist refresh: forcing reprocess -->
+
