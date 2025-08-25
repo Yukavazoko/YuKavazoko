@@ -97,10 +97,10 @@ Assim, os relatórios de *Top Languages* refletem melhor o foco real deste playb
     </td>
     <td>
       <!-- Pin do seu repositório pessoal -->
-      <a href="https://github.com/Yukavazoko/YuKavazoko">
+      <a href="https://github.com/Yukavazoko/crm-sql-queries">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=Yukavazoko&repo=YuKavazoko&theme=dracula"
-          alt="Repo: YuKavazoko"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Yukavazoko&repo=crm-sql-queries&theme=dracula"
+          alt="Repo: crm-sql-queries"
         />
       </a>
     </td>
